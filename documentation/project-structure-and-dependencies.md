@@ -16,7 +16,7 @@ The frontend directory contains an *Expo project* written primarily in React Nat
 
 - React - Custom UI components with props, style, and state
 - React Native - React for mobile devices
-- Expo Secure Store - Secure local storage of credentials
+- Expo SecureStore - Secure local storage of credentials
 
 #### Development
 

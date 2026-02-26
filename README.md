@@ -1,11 +1,8 @@
 # shiftER
 
+## Project Overview
+
 A group scheduling app for mobile devices that enables professionals to claim their preferred work shifts using a snake draft (or serpentine draft).
-
-## Repos
-
-- [shiftER-backend](https://github.com/AaronOwensSE/shiftER-backend) - Backend API
-- [shiftER-frontend-mobile](https://github.com/AaronOwensSE/shiftER-frontend-mobile) - Mobile frontend
 
 ## Documentation
 
